@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h3><b> hello-react-front-end </b></h3>
+  <h3><b> Hello-react-front-end </b></h3>
 
 </div>
 
