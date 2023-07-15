@@ -48,7 +48,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Hello page**
+- **Hello Page**
 
 <!-- GETTING STARTED -->
 
